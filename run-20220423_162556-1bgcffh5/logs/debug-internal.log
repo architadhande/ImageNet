@@ -1,0 +1,7 @@
+2022-04-23 16:26:44,251 INFO    MainThread:13700 [internal.py:wandb_internal():92] W&B internal server running at pid: 13700, started at: 2022-04-23 16:26:44.248597
+2022-04-23 16:26:44,258 DEBUG   HandlerThread:13700 [handler.py:handle_request():141] handle_request: shutdown
+2022-04-23 16:26:44,259 INFO    WriterThread:13700 [datastore.py:open_for_write():77] open: /media/isha/Archita/ImageNet-Downsampled/wandb/run-20220423_162556-1bgcffh5/run-1bgcffh5.wandb
+2022-04-23 16:26:44,260 INFO    HandlerThread:13700 [handler.py:finish():790] shutting down handler
+2022-04-23 16:26:44,262 INFO    WriterThread:13700 [datastore.py:close():281] close: /media/isha/Archita/ImageNet-Downsampled/wandb/run-20220423_162556-1bgcffh5/run-1bgcffh5.wandb
+2022-04-23 16:26:44,268 INFO    SenderThread:13700 [sender.py:finish():1107] shutting down sender
+2022-04-23 16:26:45,262 INFO    MainThread:13700 [internal.py:handle_exit():82] Internal process exited
